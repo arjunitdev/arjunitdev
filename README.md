@@ -20,4 +20,4 @@ Feel free to reach out and connect with me on [LinkedIn](https://www.linkedin.co
 
 ---
 
-💡 _Fun Fact:_ I believe every AI model tells a story — and building that story is as exciting as discovering it!
+
