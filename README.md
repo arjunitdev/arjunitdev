@@ -1,17 +1,18 @@
-## Hi there 👋 I'm Arjun!
+# Hi there 👋 I'm Arjun!
 
 ✨ Welcome to my GitHub profile! ✨
 
 ### About Me:
 - 🎓 I hold a **Bachelor's degree in Information Technology** and a **Master's degree in Computer Science**.
-- 🌎 Currently based in **California**.
-- 💼 I'm a **Data Scientist** at **Venusgeo Solution**
-- 🌟 I’m **passionate about data**—I love handling data and uncovering the valuable insights hidden within it.
+- 🌎 Currently based in **California, USA**.
+- 💼 I'm working as a **Data Scientist Associate** at **Venusgeo Solutions**.
+- 🤖 I’m passionate about **building intelligent systems** — combining **AI, software engineering, and data science** to solve real-world problems.
 
 ### My Journey in Tech:
-From my academic pursuits to my professional experience, I've always been driven by curiosity and a passion for problem-solving. My work revolves around:
-- 🔍 Analyzing data to generate actionable insights.
-- 🤝 Collaborating with teams to create data-driven solutions.
+From my academic research in **Generative AI** to my professional work on AI-powered applications, I've been driven by a passion for innovation and problem-solving. My work includes:
+- 🔍 Developing AI-based solutions like OCR systems, RAG chatbots, and NLP-powered recommendation engines.
+- ⚙️ Designing and optimizing backend systems for scalable, cloud-based deployment.
+- 📊 Transforming data into actionable insights to drive business impact.
 
 ### Let's Connect!
 Feel free to reach out and connect with me on [LinkedIn](https://www.linkedin.com/in/arjun-selvam/)!  
@@ -19,4 +20,4 @@ Feel free to reach out and connect with me on [LinkedIn](https://www.linkedin.co
 
 ---
 
-💡 _Fun Fact:_ I believe every dataset tells a story—one that's waiting to be discovered!
+💡 _Fun Fact:_ I believe every AI model tells a story — and building that story is as exciting as discovering it!
