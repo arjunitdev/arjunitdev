@@ -4,9 +4,9 @@
 
 ### About Me:
 - 🎓 I hold a **Master's degree in Computer Science** and a **Bachelor's degree in Information Technology**.
-- 🌎 Currently based in **California, USA**.
-- 💼 I'm working as a **Data Scientist Associate** at **Venusgeo Solutions**.
-- 🤖 I’m passionate about **building intelligent systems** — combining **AI, software engineering, and data science** to solve real-world problems.
+- Currently based in **California, USA**.
+- I'm working as a **Data Scientist Associate** at **Venusgeo Solutions**.
+- I’m passionate about **building intelligent systems** combining **AI and data science** to solve real-world problems.
 
 ### My Journey in Tech:
 From my academic research in **Generative AI** to my professional work on AI-powered applications, I've been driven by a passion for innovation and problem-solving. My work includes:
