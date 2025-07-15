@@ -3,7 +3,7 @@
 ✨ Welcome to my GitHub profile! ✨
 
 ### About Me:
-- 🎓 I hold a **Bachelor's degree in Information Technology** and a **Master's degree in Computer Science**.
+- 🎓 I hold a **Master's degree in Computer Science** and a **Bachelor's degree in Information Technology**.
 - 🌎 Currently based in **California, USA**.
 - 💼 I'm working as a **Data Scientist Associate** at **Venusgeo Solutions**.
 - 🤖 I’m passionate about **building intelligent systems** — combining **AI, software engineering, and data science** to solve real-world problems.
